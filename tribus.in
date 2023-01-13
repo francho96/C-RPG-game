@@ -1,0 +1,31 @@
+5
+Guerrequines
+Salud = 30
+Fuerza = 50
+Inteligencia = 20
+Cordura = 200
+Agilidad = 30
+Tanquequines
+Salud = 50
+Fuerza = 30
+Inteligencia = 20
+Cordura = 150
+Agilidad = 20
+Informatiquines
+Salud = 30
+Fuerza = 20
+Inteligencia = 50
+Cordura = 200
+Agilidad = 50
+Androides
+Salud = 10
+Fuerza = 60
+Inteligencia = 0
+Cordura =300
+Agilidad = 30
+Aspiradoras
+Salud = 10
+Fuerza = 10
+Inteligencia = 10
+Cordura = 500
+Agilidad = 100
